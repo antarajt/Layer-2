@@ -1,0 +1,185 @@
+.box{
+    background-color: red;
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.box-1{
+    background-color: rgb(145, 76, 11);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.box-2{
+
+    background-color: rgb(143, 90, 12);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.box-3{
+
+    background-color: rgb(92, 56, 3);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.box-4{
+
+    background-color: rgb(66, 40, 2);
+    height: 65px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.box-6{
+
+    background-color: rgb(56, 34, 2);
+    height: 70px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.box-7{
+
+    background-color: rgb(37, 23, 1);
+    height: 50px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+h2{
+
+    background-color: rgb(2, 54, 9);
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.box-8{
+
+    background-color: rgb(3, 80, 13);
+    height: 50px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.box-9{
+
+    background-color: rgb(4, 112, 18);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+
+.box-10{
+
+    background-color: rgb(5, 153, 25);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.box-11{
+
+    background-color: rgb(0, 194, 26);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.box-12{
+
+    background-color: rgb(0, 224, 30);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+h3{
+
+    background-color: rgb(2, 46, 42);
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.c-1{
+
+    background-color: rgb(9, 207, 191);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.c-2{
+
+    background-color: rgb(0, 170, 156);
+    height: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
